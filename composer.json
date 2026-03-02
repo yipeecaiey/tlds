@@ -23,7 +23,7 @@
 		"MIT"
 	],
     "require": {
-		"illuminate/support": "^10.0|^11.0",
+		"illuminate/support": "^10.0|^11.0|^12.0",
 		"hampel/validate": "~2.2",
         "php": ">=7.3"
     },
